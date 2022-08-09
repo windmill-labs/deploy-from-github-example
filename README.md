@@ -1,3 +1,15 @@
+<p align=center> <b> Warning: WIP - currently under development, please check back in a few days for definitive version </b> </p>
+
+Todo: 
+
+- [x] Create dir tree
+- [x] Add example scripts
+- [ ] Add `.ts` imports to the [import script](https://github.com/windmill-labs/windmill/blob/main/community/scripts/u/bot/import_workspace_from_tarball.py)
+- [ ] Investigate the python import error
+- [ ] Step-by-step readme
+
+# GH-Action
+
 This demo repository showcases how GitHub Actions can be used to deploy scripts
 to Windmill.
 
