@@ -5,6 +5,9 @@ It uses the
 [`windmill-gh-action-deploy`](https://github.com/windmill-labs/windmill-gh-action-deploy)
 action to deploy the script to Windmill.
 
-The script relies on GitHub Actions Secrets, see the 
+You can find the Action on the GitHub marketplace: 
+[here](https://github.com/marketplace/actions/deploy-to-windmill-dev)
+
+The action relies on GitHub Actions Secrets, see the 
 [official documentation](https://docs.github.com/en/rest/actions/secrets) for
 more information.
