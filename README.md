@@ -4,8 +4,7 @@ Todo:
 
 - [x] Create dir tree
 - [x] Add example scripts
-- [ ] Add `.ts` imports to the [import script](https://github.com/windmill-labs/windmill/blob/main/community/scripts/u/bot/import_workspace_from_tarball.py)
-- [ ] Investigate the python import error
+- [ ] Refactor the import script
 - [ ] Step-by-step readme
 
 # GH-Action
