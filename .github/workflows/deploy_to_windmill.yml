@@ -13,6 +13,6 @@ jobs:
         uses: windmill-labs/windmill-gh-action-deploy@v2.0.0
         with:
           dry_run: false
-          input_dir: src
-          windmill_workspace: windmill-labs
+          input_dir: .
+          windmill_workspace: quichotte
           windmill_token: ${{ secrets.WINDMILL_API_TOKEN }}
