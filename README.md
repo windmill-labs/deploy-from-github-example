@@ -1,20 +1,11 @@
-<p align=center> <b> Warning: WIP - currently under development, please check back in a few days for definitive version </b> </p>
-
-Todo: 
-
-- [x] Create dir tree
-- [x] Add example scripts
-- [ ] Refactor the import script
-- [ ] Step-by-step readme
-
 # GH-Action
 
 This demo repository showcases how GitHub Actions can be used to deploy scripts
-to Windmill.
+to Windmill, and use GitHub as your sole source of truth.
 
 It uses the 
 [`windmill-gh-action-deploy`](https://github.com/windmill-labs/windmill-gh-action-deploy)
-action to deploy the script to Windmill.
+action to deploy the workspace to Windmill.
 
 You can find the Action on the GitHub marketplace: 
 [here](https://github.com/marketplace/actions/deploy-to-windmill-dev)
